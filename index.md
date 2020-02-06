@@ -16,9 +16,7 @@ image: og.jpg
 
 ---
 
-<a href="https://masks.sunfarplus.com.tw">
-  <picture><source type="image/webp" srcset="img/mask-finder.webp" /><source type="image/jpeg" srcset="img/mask-finder.jpg" /><img src="img/mask-finder.jpg" /></picture>
-</a>
+<a href="https://masks.sunfarplus.com.tw"><picture><source type="image/webp" srcset="img/mask-finder.webp" /><source type="image/jpeg" srcset="img/mask-finder.jpg" /><img src="img/mask-finder.jpg" /></picture></a>
 ### <a href="https://masks.sunfarplus.com.tw">找口罩 Mask Finder</a> by <a href="https://sf3c.tw/xwhdX">順發 SUNFAR+</a>
 
 ---
